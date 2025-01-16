@@ -2,9 +2,9 @@
 
 Fullstack Web Development | Backend Engineer | Blockchain Enthusiast
 
-### 💻 Web Developer at Mitraplus Infotek
+## 💻 Web Developer at Mitraplus Infotek
 
-📧 You can reach me through:
+### 🔍 You can reach me through:
 - [LinkedIn](linkedin.com/in/muchamad-coirul-anwar)
 - [Website](https://www.masterceremony.site)
 
@@ -16,6 +16,8 @@ Fullstack Web Development | Backend Engineer | Blockchain Enthusiast
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)](https://skillicons.dev)
 [![Backend](https://skillicons.dev/icons?i=nodejs,npm,bun,express,spring,postman,docker,nginx)](https://skillicons.dev)
 [![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=git,github,vercel)](https://skillicons.dev)
+
 
 ---
 
