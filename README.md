@@ -2,16 +2,13 @@
 <br />
 
 ### Fullstack Web Development | Backend Engineer | Blockchain Enthusiast
-<br />
 
 <br />
 > "Yesterday I was smart, I wanted to change the world. Today I am wise, I want to change myself" -Rumi
 <br />
-<br />
+
 
 ## 💻 Web Developer at Mitraplus Infotek
-<br />
-
 
 ### 🔍 You can reach me through:
 - [LinkedIn](https://www.linkedin.com/in/muchamad-coirul-anwar)
