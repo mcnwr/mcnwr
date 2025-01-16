@@ -1,14 +1,14 @@
 # Hi great developer 👋, I'm Muchamad Coirul Anwar 😎
+<br />
 
+## Fullstack Web Development | Backend Engineer | Blockchain Enthusiast
+<br />
 
-#Fullstack Web Development | Backend Engineer | Blockchain Enthusiast#
-
-
->"Yesterday I was smart, I wanted to change the world. Today I am wise, I want to change myself" -Rumi
-
-
+> "Yesterday I was smart, I wanted to change the world. Today I am wise, I want to change myself" -Rumi
+<br />
 
 ## 💻 Web Developer at Mitraplus Infotek
+<br />
 
 
 ### 🔍 You can reach me through:
