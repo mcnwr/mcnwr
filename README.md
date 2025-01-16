@@ -16,14 +16,18 @@ Fullstack Web Development | Backend Engineer | Blockchain Enthusiast
 - **Backend**: Node.js, Bun, Express.js, Springboot
 - **Database** Sql Server, Postgreslq, Mysql, MongoDB, Redis
 
----
-
-### 📡 Code Editor:
-
-- Visual Studio Code
-- Jetbrains
+[![Programming](https://skillicons.dev/icons?i=js,ts,java,kotlin)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,npm,bun,express,spring,postman,docker,nginx)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ---
 
-### 💻 Operating System:
+### 🗒️ Code Editor:
+
+[![Code Editor](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+
+---
+
+### 🖥️ Operating System:
 [![OS](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
