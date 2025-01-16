@@ -26,4 +26,4 @@ Fullstack Web Development | Backend Engineer | Blockchain Enthusiast
 ---
 
 ### 💻 Operating System:
-[OS](https://skillicons.dev/icons?i=windows,apple,linux)
+[![OS](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
