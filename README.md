@@ -4,9 +4,7 @@
 #Fullstack Web Development | Backend Engineer | Blockchain Enthusiast#
 
 
->Yesterday I was smart, I wanted to change the world. Now that I am wise, I want to change myself
-
->-Rumi
+>"Yesterday I was smart, I wanted to change the world. Today I am wise, I want to change myself" -Rumi
 
 
 
