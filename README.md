@@ -26,6 +26,4 @@ Fullstack Web Development | Backend Engineer | Blockchain Enthusiast
 ---
 
 ### 💻 Operating System:
-- Windows
-- MacOS
- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[OS](https://skillicons.dev/icons?i=windows,apple,linux)
