@@ -11,10 +11,6 @@ Fullstack Web Development | Backend Engineer | Blockchain Enthusiast
 ---
 
 ### 🛠 Tech Stack:
-- **Programming**: JavaScript, Typescript, Java, Kotlin
-- **Frontend**: HTML, CSS, React, Next.js
-- **Backend**: Node.js, Bun, Express.js, Springboot
-- **Database** Sql Server, Postgreslq, Mysql, MongoDB, Redis
 
 [![Programming](https://skillicons.dev/icons?i=js,ts,java,kotlin)](https://skillicons.dev)
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)](https://skillicons.dev)
