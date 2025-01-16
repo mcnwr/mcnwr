@@ -2,11 +2,14 @@
 <br />
 
 ### Fullstack Web Development | Backend Engineer | Blockchain Enthusiast
-
 <br />
+<br />
+<br />
+
 > "Yesterday I was smart, I wanted to change the world. Today I am wise, I want to change myself" -Rumi
 <br />
-
+<br />
+<br />
 
 ## 💻 Web Developer at Mitraplus Infotek
 
