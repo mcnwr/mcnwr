@@ -21,11 +21,11 @@
 
 ### 🛠 Tech Stack:
 
-[![Programming](https://skillicons.dev/icons?i=js,ts,java,kotlin)](https://skillicons.dev)
-[![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,vercel)](https://skillicons.dev)
-[![Backend](https://skillicons.dev/icons?i=nodejs,npm,bun,express,spring,postman,jest,docker,nginx)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,ts,java,kotlin,rust)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,npm,bun,express,spring,postman,jest)](https://skillicons.dev)
 [![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
-[![Other](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![DevOps & Tools](https://skillicons.dev/icons?i=docker,kubernetes,nginx,vercel,git,github)](https://skillicons.dev)
 
 
 ---
