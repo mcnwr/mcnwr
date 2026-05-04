@@ -3,7 +3,7 @@
 
 ### Backend Engineer
 <br />
-```"Yesterday I was smart, I wanted to change the world. Today I am wise, I want to change myself" -Rumi```
+> "Yesterday I was smart, I wanted to change the world. Today I am wise, I want to change myself" -Rumi
 <br />
 
 ### 🔍 You can reach me through:
