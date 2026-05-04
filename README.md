@@ -3,14 +3,8 @@
 
 ### Backend Engineer
 <br />
-<br />
-
 > "Yesterday I was smart, I wanted to change the world. Today I am wise, I want to change myself" -Rumi
-
 <br />
-<br />
-
-## 💻 Web Developer at BRI
 
 ### 🔍 You can reach me through:
 - [LinkedIn](https://www.linkedin.com/in/muchamad-coirul-anwar)
